@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+pillow
+imagehash
+numpy
+pandas
+scikit-learn
+onnx
+onnxruntime
+torch
+cryptography
